@@ -1,6 +1,6 @@
 # Data-Science-2021
-Sem2 2021 weekly work
-First Name: Liam
-Last Name: Gornall
-Student ID: 45328412
+Sem2 2021 Data Sciecne <br>
+First Name: Liam <br>
+Last Name: Gornall <br>
+Student ID: 45328412 <br>
 Group project Number: TBD
